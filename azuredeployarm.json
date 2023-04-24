@@ -130,14 +130,14 @@
     },
     "assetLocation_dc01": {
       "type": "string",
-      "defaultValue": "https://raw.githubusercontent.com/jimmylindo/M365Masterclass2022/main/ACME-DC01Config/",
+      "defaultValue": "https://raw.githubusercontent.com/danielalden/M365Masterclass2023/main/ACME-DC01Config/",
       "metadata": {
         "description": "The location of resources such as templates and DSC modules that the script is dependent"
       }
     },
     "assetLocation_CreateADForest": {
       "type": "string",
-      "defaultValue": "https://raw.githubusercontent.com/jimmylindo/M365Masterclass2022/main/DSC/",
+      "defaultValue": "https://raw.githubusercontent.com/danielalden/M365Masterclass2023/main/DSC/",
       "metadata": {
         "description": "The location of resources such as templates and DSC modules that the script is dependent"
       }

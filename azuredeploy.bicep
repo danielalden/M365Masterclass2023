@@ -54,10 +54,10 @@ param Frontend string = 'Frontend-config'
 param Backend string = 'backendpool-config'
 
 @description('The location of resources such as templates and DSC modules that the script is dependent')
-param assetLocation_dc01 string = 'https://raw.githubusercontent.com/jimmylindo/M365Masterclass2022/main/ACME-DC01Config/'
+param assetLocation_dc01 string = 'https://raw.githubusercontent.com/danielalden/M365Masterclass2023/main/ACME-DC01Config/'
 
 @description('The location of resources such as templates and DSC modules that the script is dependent')
-param assetLocation_CreateADForest string = 'https://raw.githubusercontent.com/jimmylindo/M365Masterclass2022/main/DSC/'
+param assetLocation_CreateADForest string = 'https://raw.githubusercontent.com/danielalden/M365Masterclass2023/main/DSC/'
 
 var lb_sku = 'Standard'
 var lb_tier = 'Regional'
