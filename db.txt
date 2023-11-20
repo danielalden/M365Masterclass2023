@@ -1,0 +1,1 @@
+DRIVER=SQL Server Native Client 11.0;SERVER=ITWDC;Trusted_Connection=Yes;APP=Remote Desktop Services Connection Broker;DATABASE=ITWRDCB
